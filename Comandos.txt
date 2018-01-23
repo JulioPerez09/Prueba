@@ -1,0 +1,14 @@
+git init 			Generara init
+
+cd G:\ProyectoFinal 		(Directorio)
+
+git config --global user.name"JulioPerez09"
+
+git config --global user.email"julioperez039@gmail.com"
+
+git add .			(Anadir todo el contenido de la carpeta)
+git add primero.txt		(Anadir solo "primero.txt")
+
+git status
+
+git commit -m"commit inicial"	(anadir que cambios se van a realizar )
