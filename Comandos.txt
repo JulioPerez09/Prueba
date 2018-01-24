@@ -23,4 +23,18 @@ git config --global core.editor nano
 
 nano segundo.txt 		(Abrir archivo o crear)
 
+git tag -a v1.0 		(Agragar una etiqueta)
+
+git tag
+
+git show
+
+git tag show
+
+git branch Prueba
+
+git checkout Prueba
+
+
+
 
