@@ -12,3 +12,15 @@ git add primero.txt		(Anadir solo "primero.txt")
 git status
 
 git commit -m"commit inicial"	(anadir que cambios se van a realizar )
+
+ create mode 100644 Comandos.txt     (clave)
+
+git log     			(registro)
+
+vi primero.txt     		(Crea archivo txt)
+
+git config --global core.editor nano
+
+nano segundo.txt 		(Abrir archivo o crear)
+
+
